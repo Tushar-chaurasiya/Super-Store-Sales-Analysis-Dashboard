@@ -12,13 +12,13 @@ This project involves a detailed analysis of sales data from a SuperStore using 
 ⚙️Features :-
 ----------------------------------------
 
--> Sales Dashboard: A Power BI dashboard that provides a clear view of sales performance.
+-> Sales Dashboard:- A Power BI dashboard that provides a clear view of sales performance.
 
--> Forecasting: A 15-day sales forecast based on historical data.
+-> Forecasting:- A 15-day sales forecast based on historical data.
 
--> KPI Metrics: Key metrics such as total sales, average sales per customer, profit margins, and more.
+-> KPI Metrics:- Key metrics such as total sales, average sales per customer, profit margins, and more.
 
--> Interactive Visualizations: Sales trends, geographic distribution of sales, and product category performance.
+-> Interactive Visualizations:- Sales trends, geographic distribution of sales, and product category performance.
 Dataset
 
 --------------------------------------------------------------------------------
@@ -44,9 +44,9 @@ The dataset spans two years (2019 and 2020) and is available in SuperStore_Sales
 🔧Tools & Technologies :-
 ----------------------------------------
 
--> Power BI: For building the interactive dashboard and generating insights.
+-> Power BI :- For building the interactive dashboard and generating insights.
 
--> Python (Optional): For any data preprocessing or custom forecasting scripts.
+-> Python (Optional):- For any data preprocessing or custom forecasting scripts.
 
 ----------------------------------------
 🔑Key Insights :-
@@ -62,7 +62,7 @@ The dataset spans two years (2019 and 2020) and is available in SuperStore_Sales
 🤖Installation :-
 ----------------------------------------
 
-* To view the Power BI dashboard, you can:
+* To view the Power BI dashboard, you can:-
 
   1. Clone the repository to your local machine.
 
@@ -74,11 +74,11 @@ The dataset spans two years (2019 and 2020) and is available in SuperStore_Sales
 🫠Usage :-
 ----------------------------------------
 
--> Open the .pbix file: Use Power BI Desktop to open the file and explore the dashboard.
+-> Open the .pbix file:- Use Power BI Desktop to open the file and explore the dashboard.
 
--> Interact with visualizations: Click on the visuals to filter the data by different dimensions like region, category, and more.
+-> Interact with visualizations:- Click on the visuals to filter the data by different dimensions like region, category, and more.
 
--> View the forecast: Navigate to the forecasting section to view the predicted sales for the next 15 days.
+-> View the forecast:- Navigate to the forecasting section to view the predicted sales for the next 15 days.
 
 ----------------------------------------
 🤝How to Contribute :-
@@ -96,8 +96,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📞Contact :-
 ----------------------------------------
 
-If you have any questions or feedback, feel free to reach out:
+If you have any questions or feedback, feel free to reach out:-
 
--> LinkedIn: Tushar Chaurasiya
+-> LinkedIn:- Tushar Chaurasiya
 
--> Email: 230160307049.tushar@gdgu.org
+-> Email:- 230160307049.tushar@gdgu.org
