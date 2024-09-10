@@ -68,7 +68,7 @@ The dataset spans two years (2019 and 2020) and is available in [SuperStore_Sale
 
   2. Download and open the .pbix file using Power BI Desktop.
 
-    * Download Power BI Desktop
+    * [Download Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
 
 ----------------------------------------
 🫠Usage :-
