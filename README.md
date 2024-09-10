@@ -38,7 +38,7 @@ Dataset
 
 -> Date of Sale
 
-The dataset spans two years (2019 and 2020) and is available in SuperStore_Sales_Dataset.csv.
+The dataset spans two years (2019 and 2020) and is available in [SuperStore_Sales_Dataset.csv](SuperStore_Sales_Dataset.csv).
 
 ----------------------------------------
 🔧Tools & Technologies :-
